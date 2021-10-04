@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html/css/java/ and much more topics
 - 💞️ I’m looking to collaborate on anything that can expand my knowledge in the codign or computer science world
 - 📫 How to reach me prosperitylife207@gmail.com
+-  My website is currently on hold or I've stoped working on it for other business reasons
 
 <!---
 halocyberparts/halocyberparts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
